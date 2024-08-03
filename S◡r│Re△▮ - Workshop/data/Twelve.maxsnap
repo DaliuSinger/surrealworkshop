@@ -1,0 +1,66 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Twelve",
+	"origin" : "rnbo_example.rnbopat",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"filtered" : 		{
+			"value" : -10.81
+		}
+,
+		"dry" : 		{
+			"value" : -70.0
+		}
+,
+		"cycleGain" : 		{
+			"value" : -19.780000000000001
+		}
+,
+		"cutoff" : 		{
+			"value" : 303.0
+		}
+,
+		"pulseGain" : 		{
+			"value" : -21.579999999999998
+		}
+,
+		"volume" : 		{
+			"value" : -100.0
+		}
+,
+		"modTriPitch" : 		{
+			"value" : -8.039999999999999
+		}
+,
+		"Q" : 		{
+			"value" : 0.0
+		}
+,
+		"__presetid" : "rnbo_example.rnbopat",
+		"modCycPitch" : 		{
+			"value" : 64.0
+		}
+,
+		"modulator" : 		{
+			"value" : 19.0
+		}
+,
+		"pulseWidth" : 		{
+			"value" : 0.44
+		}
+,
+		"modCycRange" : 		{
+			"value" : 69.0
+		}
+,
+		"modTriRange" : 		{
+			"value" : 35.0
+		}
+
+	}
+
+}

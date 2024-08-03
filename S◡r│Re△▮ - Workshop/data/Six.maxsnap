@@ -1,0 +1,66 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Six",
+	"origin" : "rnbo_example.rnbopat",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 1,
+	"snapshot" : 	{
+		"filtered" : 		{
+			"value" : 0.62
+		}
+,
+		"dry" : 		{
+			"value" : -20.98
+		}
+,
+		"cycleGain" : 		{
+			"value" : -45.520000000000003
+		}
+,
+		"cutoff" : 		{
+			"value" : 113.0
+		}
+,
+		"pulseGain" : 		{
+			"value" : -23.370000000000001
+		}
+,
+		"volume" : 		{
+			"value" : -100.0
+		}
+,
+		"modTriPitch" : 		{
+			"value" : 112.0
+		}
+,
+		"Q" : 		{
+			"value" : 0.0
+		}
+,
+		"__presetid" : "rnbo_example.rnbopat",
+		"modCycPitch" : 		{
+			"value" : 0.0
+		}
+,
+		"modulator" : 		{
+			"value" : -33.0
+		}
+,
+		"pulseWidth" : 		{
+			"value" : 0.3
+		}
+,
+		"modCycRange" : 		{
+			"value" : 0.0
+		}
+,
+		"modTriRange" : 		{
+			"value" : 45.0
+		}
+
+	}
+
+}

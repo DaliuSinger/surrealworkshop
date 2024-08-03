@@ -1,4 +1,4 @@
-//@ Dalius Singer / August 3 - 2024 / HongKong
+//@ Dalius Singer / August 4 - 2024 / HongKong
 
 /****** Declarations ******/
 const Max = require('max-api'); //Max api, so we can talk to Max/MSP

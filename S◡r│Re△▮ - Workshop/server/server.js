@@ -1,6 +1,6 @@
 //@ Dalius Singer / August 4 - 2024 / HongKong
 
-/****** Declarations ******/
+/******* Declarations *******/
 const Max = require('max-api'); //Max api, so we can talk to Max/MSP
 const express = require('express'); //Fast, unopinionated, minimalist web framework for Node.js
 const app = express(); 
